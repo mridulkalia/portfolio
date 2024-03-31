@@ -1,0 +1,11 @@
+@media screen and (max-width: 1200px) {
+    .home__social-icon{
+        margin-left: 1.5rem;
+    }
+}
+.home__social-icon{
+    transition: transform 0.3s ease;
+}
+.home__social-icon:hover{
+    transform: scale(1.25);
+}
